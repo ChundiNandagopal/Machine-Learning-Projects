@@ -1,15 +1,15 @@
 # Breast Cancer Detection: Malignant or Benign 🩺✨
-📌 Project Overview
+📌 Project Overview  
 This project is a machine learning-based classification model to predict whether a patient has malignant or benign breast cancer. The model leverages historical data and various diagnostic parameters, such as the radius, texture, smoothness, and others, to deliver accurate and reliable predictions.
 
-📊 Dataset
+📊 Dataset  
 Source: The dataset is based on the Breast Cancer Wisconsin dataset, commonly used in medical research.
 Features: Includes multiple attributes such as mean radius, perimeter, area, smoothness, and texture.
 Target:
 0: Benign (non-cancerous)
 1: Malignant (cancerous)
 
-🚀 Technologies Used
+🚀 Technologies Used  
 Programming Language: Python 🐍
 Libraries & Frameworks:
 NumPy
@@ -17,7 +17,7 @@ Pandas
 Matplotlib & Seaborn (for visualization)
 Scikit-learn (for building and evaluating the model)
 
-🧪 Machine Learning Model
+🧪 Machine Learning Model  
 Algorithm: Support Vector Machine (SVM)
 Performance Metrics:
 Accuracy
