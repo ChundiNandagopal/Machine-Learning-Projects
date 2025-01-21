@@ -1,8 +1,29 @@
-# Rice-Leaf-disease-detection
+# Breast Cancer Detection: Malignant or Benign 🩺✨
+📌 Project Overview
+This project is a machine learning-based classification model to predict whether a patient has malignant or benign breast cancer. The model leverages historical data and various diagnostic parameters, such as the radius, texture, smoothness, and others, to deliver accurate and reliable predictions.
 
-Rice disease has serious negative effects on crop yield, and the correct diagnosis of rice diseases is the key to avoid these effects. However, the existing disease diagnosis methods for rice are neither accurate nor efficient, and special equipment is often required.
+📊 Dataset
+Source: The dataset is based on the Breast Cancer Wisconsin dataset, commonly used in medical research.
+Features: Includes multiple attributes such as mean radius, perimeter, area, smoothness, and texture.
+Target:
+0: Benign (non-cancerous)
+1: Malignant (cancerous)
 
-Crop diseases can significantly reduce its yield and quality, which is a great threat to food supplies around the world. Thus, disease control is critical for rice production. The key for successful disease control is a correct and fast diagnosis of diseases, so that pesticide control measures can be applied timely. Currently, the most widely used method to diagnose rice crop diseases is manual judgment based on the appearance of diseases.
+🚀 Technologies Used
+Programming Language: Python 🐍
+Libraries & Frameworks:
+NumPy
+Pandas
+Matplotlib & Seaborn (for visualization)
+Scikit-learn (for building and evaluating the model)
+
+🧪 Machine Learning Model
+Algorithm: Support Vector Machine (SVM)
+Performance Metrics:
+Accuracy
+Precision
+Recall
+F1 Score
 
 Other Detail:
 
